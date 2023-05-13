@@ -1,5 +1,5 @@
 <div><div class="separator" style="clear: both; text-align: center;"><b><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCRMdf6ex7x6_rR4gatrwTsNMmRvQT81eCJx4M2YQw0-GlH2s8_hq0TXb7wQ_umOmeELOtBsMpgS8ipXWtSmaUYmqvPy8-b3cT9Xfltg-400tots_jWuXMXQYoFmcYAHdTUEdXW0nPKMPLfU71T0R92976w9-lVfa3c37fYrIZK6hzJaO7F4ClV10j/s1920/Facebook%2011%20lite.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1042" data-original-width="1920" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCRMdf6ex7x6_rR4gatrwTsNMmRvQT81eCJx4M2YQw0-GlH2s8_hq0TXb7wQ_umOmeELOtBsMpgS8ipXWtSmaUYmqvPy8-b3cT9Xfltg-400tots_jWuXMXQYoFmcYAHdTUEdXW0nPKMPLfU71T0R92976w9-lVfa3c37fYrIZK6hzJaO7F4ClV10j/s16000/Facebook%2011%20lite.jpg" /></a></div><br /><span><!--more--></span>
-<h3 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Profile%20views&color=0e75b6&style=flat" alt="cpfile" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Profile%20views&color=0e75b6&style=flat" alt="cpfile" /> </p>
 
 
   
