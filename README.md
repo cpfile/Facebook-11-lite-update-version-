@@ -1,6 +1,5 @@
-<p align="center">
-<img src='logo.png' style="height:100px;width:100px;" >
-</p>
+<p align="center">![Facebook 11 lite](https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/cb793a63-0aac-46f0-a777-49ea2ce1f709)
+
 <h1 align=center>Team X Fire</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Total Facebook 11 lite %20download&color=0e75b6&style=flat" alt="cpfile" /> </p>
 
