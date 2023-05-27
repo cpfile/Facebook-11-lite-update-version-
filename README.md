@@ -7,7 +7,10 @@
 Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
 <div align="center">
 
-[![https://t.me/TXF2022](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/TXF2022)
+[![https://t.me/TXF2### Any queries?
+Get us here,<br></br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/groups/cyberprotectionofficial/)
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi0213@gmail.com)
 
 </div>
 
