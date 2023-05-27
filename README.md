@@ -41,4 +41,4 @@ Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Ilig
 </p>
 
 ##
-© Cyber protection 
+<p align="center">© Cyber protection 
