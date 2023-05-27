@@ -8,7 +8,6 @@ Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Ilig
 <div align="center">
 
 [![https://t.me/TXF2022](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/TXF2022)
-[![https://t.me/TXF2022](https://img.shields.io/badge/Telegram-https://t.me/TXF2022-blue.svg?style=flat-square)](https://t.me/TXF2022)
 
 </div>
 
