@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Total Facebook 11 lite %20download&color=0e75b6&style=flat" alt="cpfile" /> </p>
 
 #### Its An Fb 11 lite clone  App. 
-Remember :- This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
+Remember : This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
 <div align="center">
 
 ### Contact us.
