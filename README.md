@@ -40,6 +40,4 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 <p align="center">
  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
-
-##
 <p align="center">© Cyber protection 
