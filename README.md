@@ -23,18 +23,18 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
  - Version 4.0+
  
  ## DOWNLOAD
- - <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk">Facebook lite 02</a>
+ <p align="center"> <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk">Facebook lite 02</a>
 
- - <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk">Facebook lite 03</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.4.apk">Facebook lite 04</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.5.apk">Facebook lite 05</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.6.apk">Facebook lite 06</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.7.apk">Facebook lite 07</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.8.apk">Facebook lite 08</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.9.apk">Facebook lite 09</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.10.apk">Facebook lite 10</a>
- -  <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.11.apk">Facebook lite 11</a>
-####
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk">Facebook lite 03</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.4.apk">Facebook lite 04</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.5.apk">Facebook lite 05</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.6.apk">Facebook lite 06</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.7.apk">Facebook lite 07</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.8.apk">Facebook lite 08</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.9.apk">Facebook lite 09</a>
+ <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.10.apk">Facebook lite 10</a>
+ 
+<p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.11.apk">Facebook lite 11</a>
 
 ## DISCLAIMER
 <p align="center">
