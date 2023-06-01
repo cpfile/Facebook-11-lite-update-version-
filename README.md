@@ -21,11 +21,9 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 ## Requirements
  - Android Phone
  - Version 4.0+
-
- 
 ## Download
 <h1 align=center>
-
+ 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_02-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk)
 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_03-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk)
