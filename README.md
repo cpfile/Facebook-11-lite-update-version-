@@ -8,7 +8,7 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 <div align="center">
 
 ### Contact us.
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/groups/cyberprotectionofficial/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](link)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi0213@gmail.com)
 
 </div>
@@ -21,18 +21,28 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 ## Requirements
  - Android Phone
  - Version 4.0+
- 
- ## DOWNLOAD
- <p align="center"> <a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk">Click here to download Facebook lite 02</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk">Click here to download Facebook lite 03</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.4.apk">Click here to download Facebook lite 04</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.5.apk">Click here to download Facebook lite 05</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.6.apk">Click here to download Facebook lite 06</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.7.apk">Click here to download Facebook lite 07</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.8.apk">Click here to download Facebook lite 08</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.9.apk">Click here to download Facebook lite 09</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.10.apk">Click here to download Facebook lite 10</a>
- <p align="center"><a href="https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.11.apk">Click here to download Facebook lite 11</a>
+ <h1 align=center>
+📁Download Now download
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.4.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.5.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.6.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.7.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.8.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.9.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_10-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.10.apk)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-1877F2?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.11.apk)
 
 ## DISCLAIMER
 <p align="center">
