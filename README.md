@@ -14,7 +14,7 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 
 ## Features
 
- - Update version.
+ - Update versio
  - loading system improvement.
 
 ## Requirements
