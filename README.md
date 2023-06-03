@@ -14,7 +14,7 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 
 ## Features
 
- - Current Version: 108.0.0.9.74
+ - Current version: 108.0.0.9.74
  - loading system improvement.
 
 ## Requirements
