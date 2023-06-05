@@ -23,25 +23,25 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 ## Download
 <h1 align=center>
  
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.2.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-000000?style=for-the-badge)](https://sub4unlock.io/nmSGL)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.3.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-000000?style=for-the-badge)](https://sub4unlock.io/DLX13)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.4.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-000000?style=for-the-badge)](https://sub4unlock.io/ZaluS)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.5.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-000000?style=for-the-badge)](https://sub4unlock.io/apTOW)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.6.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-000000?style=for-the-badge)](https://sub4unlock.io/Rmopa)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.7.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-000000?style=for-the-badge)](https://sub4unlock.io/aJi1f)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.8.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-000000?style=for-the-badge)](https://sub4unlock.io/3S28l)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.9.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-000000?style=for-the-badge)](https://sub4unlock.io/DFAk9)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.10.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://sub4unlock.io/642yF)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://github.com/cpfile/Facebook-11-lite-update-version-/releases/download/V2.0/Lite.11.apk)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://sub4unlock.io/FlQXC)
 
 ## DISCLAIMER
 <p align="center">
@@ -49,4 +49,4 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 </p>
 
 ##
-<p align="center">© Cyber protection 
+<p align="center">© Cyber protection
