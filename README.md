@@ -14,7 +14,7 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
  - Current version: 108.0.0.9.74
  - loading system improvement.
  ## How To Download..... 
-![1000058570](https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/3a091906-7681-4772-86ec-d945492ffa32)
+![Fb 11 lite, Facebook 11 lite](https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/3a091906-7681-4772-86ec-d945492ffa32)
 
 ## Download
 <h1 align=center>
