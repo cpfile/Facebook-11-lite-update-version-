@@ -2,13 +2,6 @@
 
 <h1 align=center>Facebook 11 lite</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Total Facebook 11 lite %20download&color=0e75b6&style=flat" alt="cpfile" /> </p>
-
-#### Its An Fb 11 lite clone  App. 
-Remember : This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
-<div align="center">
-
-</div>
-
 ## Features
 
  - Current version: 108.0.0.9.74
@@ -37,5 +30,13 @@ Remember : This clone App Made For Educational Purpose Only. Don't Use Any Ilige
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-10.html)
 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-11.html)
+ #### Its An Fb 11 lite clone  App. 
+
+< p align="center">This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
+
+<div align="center">
+
+</div>
+ 
 #
 <p align="center">© Cyber protection
