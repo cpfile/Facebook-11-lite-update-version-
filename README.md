@@ -31,9 +31,9 @@
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-10.html)
 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://linkgeneratorofficial.blogspot.com/p/lite-11.html)
- #### Its An Fb 11 lite clone  App. 
+ #### Remember.
 
-< p align="center">This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
+<p align="center"> This clone App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. cyber protection will not be responsible if you use it for any unethical activity.
 
 <div align="center">
 
