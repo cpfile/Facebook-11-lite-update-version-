@@ -5,7 +5,7 @@
 
 ## Features
 
- - Current version: 108.0.0.9.74
+ - Current version: V2.0
  - loading system improvement.
  ## How To Download..... 
 ![Fb 11 lite, Facebook 11 lite](https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/3a091906-7681-4772-86ec-d945492ffa32)
