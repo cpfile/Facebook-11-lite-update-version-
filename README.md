@@ -5,8 +5,13 @@
 
 ## Features
 
- - Current version: V2.0
- - loading system improvement.
+ -## Features of 11 Facebook Lite
+ 
+ - Updated Version 2.0
+ - Fast Loading
+ - Working In Slow Networks
+ - User Friendly Experience
+ - Low Data Consumption
  ## How To Download..... 
 ![Fb 11 lite, Facebook 11 lite](https://github.com/cpfile/Facebook-11-lite-update-version-/assets/133189455/3a091906-7681-4772-86ec-d945492ffa32)
 ## Download
