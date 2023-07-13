@@ -4,8 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cpfile&label=Total Facebook 11 lite %20download&color=0e75b6&style=flat" alt="cpfile" /> </p>
 
 ## Features
-
- ## Features of 11 Facebook Lite
  
  - Updated Version 2.0
  - Fast Loading
